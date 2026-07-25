@@ -19,6 +19,10 @@ An AI-powered web application that summarizes text using a trained T5 Transforme
 - HTML
 - CSS
 
+## Demo
+
+![Text Summarizer Demo](text-summarizer-demo.png)
+
 ## Installation
 
 Install the required dependencies:
